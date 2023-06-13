@@ -10,8 +10,8 @@ Here are some quick things about me:
 - ⚡ Coding is my passion.
 - 微信：lbbniu-com
 - 公众号：刘兵兵
-![](wechat.png)
 
+![](wechat.png)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbbniu&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lbbniu&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lbbniu&theme=github)
