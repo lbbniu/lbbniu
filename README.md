@@ -8,8 +8,8 @@ Here are some quick things about me:
 
 - 📫 The best way to reach me is sending me an email.
 - ⚡ Coding is my passion.
-- 微信：lbbniu-com
-- 公众号：程序员大兵
+- 微信：lbbniu
+- 公众号：刘邦学AI
 
 ![](wechat.png)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbbniu&theme=github)
